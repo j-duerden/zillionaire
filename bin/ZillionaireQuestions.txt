@@ -1,0 +1,76 @@
+General Knowledge,What is the most common surname in the English speaking world?,Smith,Brown,Wilcox,Rockefeller,Easy
+General Knowledge,How many faces are there on a tetrahedron?,4,3,5,6,Easy
+General Knowledge,What is the German word for banana?,Banane,Ananas,Apfel,Grosseseeden,Medium
+General Knowledge,Which of these is the correct spelling?,Stephen Hawking,Stephen Hawkings,Stephen Hawkwings,Stephen Hawkin,Easy
+General Knowledge,What does the P in JPEG stand for?,Photographic,Pixelated,Processed,Printed,Medium
+General Knowledge,In what year did the London Olympics Games occur?,2012,2008,2010,2004,Easy
+General Knowledge,How many days are there in April?,30,31,28,29,Easy
+General Knowledge,What is jokingly referred to as the dentist's favourite time?,2:30,3:30,12:15,5:00,Easy
+General Knowledge,When talking about forces such as friction or gravity what school of science would this apply to?,Physics,Chemistry,Biology,Computing,Easy
+General Knowledge,How many inches are there in a foot?,12,11,14,13,Easy
+General Knowledge,What is the most valuable letter in Scrabble out of these choices?,Z,X,J,K,Hard
+General Knowledge,How fast is the speed of light?,3*10^8 m/s,3*10^7 m/s,3*10^9 m/s,3*10^6 m/s,Hard
+General Knowledge,Who was the first man on the moon?,Neil Armstrong,Buzz Aldrin,Buzz Lightyear,Neil Amstrong,Easy
+General Knowledge,What is the bottom section of a fraction called?,Denominator,Demotivator,Decalcifier,The thingy on the bottom,Easy
+General Knowledge,What is the man called who is secretly Batman?,Bruce Wayne,Clark Kent,Barry Allen,Hal Jordan,Easy
+General Knowledge,Which is the largest state in the USA?,Texas,Alaska,Washington,Louisiana,Easy
+General Knowledge,What is the average capactiy for short-term memory as quantified by George Miller?,7+-2,20+-5,9+-3,10,Hard
+General Knowledge,What does the F in UFO stand for?,Flying,Floating,Fast,Faraway,Easy
+General Knowledge,What is the largest breed of housecat?,Maine Coon,Domestic Shorthair,Ragdoll,Siamese,Medium
+General Knowledge,What are UK mains power supplies set at?,230V,240V,200V,250V,Medium
+General Knowledge,How many pounds are in a stone?,14,12,16,15,Medium
+General Knowledge,Which of these words is has been spelled correctly?,Accommodate,Accomodate,Acommodate,Accommadate,Medium
+General Knowledge,Who is the best lecturer for Software Design and Development?,They're all great,Gary Allen,Tony Jenkins,Simon Parkinson,Easy
+General Knowledge,Which of these is the longest running Western animated TV show?,The Simpsons,The Flintstones,Scooby Doo,Tom and Jerry,Medium
+General Knowledge,What part of the body does dermatology focus on?,Skin,Arms,Bones,Eyes,Medium
+History,What year did World War 2 begin in?,1939,1940,1938,1941,Easy
+History,Which of these phases of Roman government never existed?,Roman Oligarchy,Roman Empire,Roman Republic,Roman Monarchy,Hard
+History,Who gave fire to the humans in Greek mythology?,Prometheus,Helios,Hades,Poseidon,Medium
+History,Who was the leader of the Mongol Empire,Genghis Khan,Genesis Khan,Genghis Khan't,Gengis Kahn,Easy
+History,When did the battle of Hastings take place?,1066,1012,1114,1080,Easy
+History,Finish this name: Alexander the...,Great,Grape,Grate,Greet,Easy
+History,What was first developed and deployed for use by the military in World War 1?,Tanks,Helicopters,Space-age laser guns,Satellites,Easy
+History,How many wonders of the ancient world were there?,7,8,6,9,Easy
+History,What Roman formation was used in battle that translated to "tortoise" in Latin?,Testudo,Tortoiso,Turtelo,Telemundo,Medium
+History,In which century was The Origin of Species published?,19th,18th,17th,20th,Medium
+History,Which of these empires was the largest?,British Empire,Roman Empire,Persian Empire,Greek Empire,Medium
+History,Approximately how many years ago did dinosaurs go extinct?,65 million,50 million,10000,90 million,Easy
+History,When was Coca-Cola first introduced?,1886,1900,1908,1926,Medium
+History,What was the era in America called where there was a national ban on alcohol?,Prohibition,Dry,Morality,Expensive,Easy
+History,In which Egyptian city are the Pyramids located?,Giza,Cairo,Luxor,Alexandria,Easy
+History,What is a widely recognised symbol of remembrance?,Poppy,Medal,Dove,Cross,Medium
+History,Which of these countries was NOT part of the Axis in World War 2?,Spain,Germany,Italy,Japan,Easy
+History,Finish this name: Leonardo da...,Vinci,Caprio,Veni,Vichi,Easy
+History,Who assassinated Archduke Franz Ferdinand in 1914?,Gavrilo Princip,Lee Harver Oswald,Adolf Hitler,Jed Garro,Medium
+History,Who invented the first successful aeroplane?,The Wright Brothers,Leonardo da Vinci,Plato,Montezuma II,Easy
+History,Who wrote the play Macbeth?,William Shakespeare,Charles Dickens,Edgar Allen Poe,Henry Baker,Easy
+History,Which of these periods came first?,Silurian,Triassic,Jurassic,Permian,Hard
+History,When was the Berlin Wall built?,1961,1969,1965,1972,Hard
+History,Where did the Black Death primarily affect?,Europe,China,America,Africa,Medium
+History,What was the fortification that spanned the French-German border in WW2 called?,Maginot Line,Manigot Line,Défense Line,Le Grand Bunker,Medium
+Gaming,In which year was Donkey Kong released?,1981,1980,1979,1982,Medium
+Gaming,Which fighting game was the first to feature "death moves"?,Mortal Kombat,Street Fighter,Tekken,Virtua Fighter,Easy
+Gaming,Which of these Street Fighter characters is female>,Cammy,Blanka,Akuma,Ryu,Medium
+Gaming,Which company developed the Xbox?,Microsoft,Nintendo,Sega,Sony,Easy
+Gaming,What is the main protagonist's name in Grand Theft Auto 4?,Niko Bellic,Nicko Belic,Roman Bellic,Viktor Bellic,Easy
+Gaming,How many classes can you play as in Team Fortress 2?,9,8,10,7,Medium
+Gaming,What does the B stand for in MOBA?,Battle,Building,Barren,Batter,Easy
+Gaming,What was Mario's original name in Donkey Kong?,Jump Man,Mr. Video,Guiseppe,Carpenter,Medium
+Gaming,What is the most valuable item in Pac-Man?,Key,Bell,Strawberry,Grapes,Medium
+Gaming,What is the name of the player character in The Legend of Zelda?,Link,Zelda,Hero,Ganon,Medium
+Gaming,How many worlds are there in a typical Super Mario game?,8,7,9,10,Easy
+Gaming,What does CoD stand for?,Call of Duty,Carl on Duty,Crush or Destroy,Castle of Dragons,Easy
+Gaming,Which of these is an RPG series?,Elder Scrolls,Battlefield,DOTA 2,God of War,Easy
+Gaming,Which publisher published Assassin's Creed?,Ubisoft,Capcom,EA,Tencent,Medium
+Gaming,When was Nintendo founded?,1889,1922,1956,1971,Easy
+Gaming,What are the names of the blocks in Tetris?,Tetriminoes,Fourblockers,Quadboxes,Tetris Minnows,Easy
+Gaming,The Mortal Kombat character Scorpion shouts what iconic phrase when throwing his spear?,GET OVER HERE!,PROCEED IN THIS DIRECTION!,GOTCHA!,GRABBED YA!,Easy
+Gaming,Finish this list of names:Inky - Blinky - Pinky - ...,Clyde,Cam,Cyrus,Chive,Easy
+Gaming,What is the name of the player character in Mike Tyson's Punch-Out!!?,Little Mac,Piston Honda,Mr. Sandman,Glass Joe,Medium
+Gaming,Which of these is a weapon in Worms?,Concrete Donkey,Concrete Dog,Concrete Rat,Concrete Elephant,Easy
+Gaming,What is the name of the protagonist of the Mass Effect games?,Commander Shepard,Commander Shepherd,Commander Shetland,Commander Shipping,Medium
+Gaming,What colour are Wario's overalls?,Purple,Blue,Brown,Black,Medium
+Gaming,What race is Abe from Oddworld: Abe's Oddysee?,Mudokon,Mudanchee,Mudomo,Modokun,Hard
+Gaming,When was Minecraft released?,2011,2010,2012,2009,Medium
+Gaming,Which of these Pokemon was NOT a starter Pokemon?,Togepi,Torchic,Piplup,Bulbasaur,Medium
+Category,Question,Correct Answer,Wrong Answer 1,Wrong Answer 2,Wrong Answer 3,Difficulty
